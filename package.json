@@ -1,0 +1,25 @@
+{
+  "name": "timelapse_helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-route": "^1.4.7",
+    "nodemon": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bennibjorn@github.com/bennibjorn/timelapse_helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennibjorn/timelapse_helper/issues"
+  },
+  "homepage": "https://github.com/bennibjorn/timelapse_helper"
+}
